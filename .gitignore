@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# SQLite database
+*.db
+*.sqlite
+*.sqlite3
+
+# PyInstaller build files
+build/
+dist/
+*.spec
+
+# Temporary VS Code files
+tempCodeRunnerFile.py
+
+# Test files
+test_db.py
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment/secrets
+.env
+#local medicine images
+assets/medicines/
